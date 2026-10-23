@@ -3,14 +3,10 @@ All about me
 
 ### Hi there, I'm <a href="https://skst.in" target="_blank">Nishant Dhule</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satish-dhawale/)
-
-### 🎯 Certified QA Professional | MCA Graduate
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=Red)](www.linkedin.com/in/nishant-dhule)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-dhule/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=Red)]()
 
-### 👨‍💻 About Me
+### 🎯 Certified QA Professional | MCA Graduate
 
 I'm an certified Quality Assurance professional with experience in AI chatbot response auditing, quality evaluation, and data analysis. I hold a Master of Computer Applications (MCA) degree and am expanding my skills in software testing and test automation.
 
