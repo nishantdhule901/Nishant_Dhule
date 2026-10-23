@@ -2,17 +2,17 @@
 
 ### 🎯 Certified QA Professional | MCA Graduate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=Red)](www.linkedin.com/in/nishant-dhule)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=Red)]()
 
 ### 👨‍💻 About Me
 
-I'm an ISTQB CTFL-certified Quality Assurance professional with experience in AI chatbot response auditing, quality evaluation, and data analysis. I hold a Master of Computer Applications (MCA) degree and am expanding my skills in software testing and test automation.
+I'm an certified Quality Assurance professional with experience in AI chatbot response auditing, quality evaluation, and data analysis. I hold a Master of Computer Applications (MCA) degree and am expanding my skills in software testing and test automation.
 
 - 🔍 Experience in chatbot response auditing and quality analysis
-- 🏅 ISTQB Certified Tester – Foundation Level (CTFL)
+- 🏅 Certified Tester
 - 🗄️ Working with SQL and PostgreSQL
-- 🌱 Learning Java, Selenium, Playwright, and TypeScript
+- 🌱 Skills in Java, Selenium, Playwright, and TypeScript
 - 🎯 Career focus: Software Quality Assurance and Test Automation
 - 🎓 Master of Computer Applications (MCA)
 
@@ -22,7 +22,7 @@ I'm an ISTQB CTFL-certified Quality Assurance professional with experience in AI
 
 **Testing:** Manual Testing | Test Case Design | Defect Reporting
 
-**Automation (Learning):** Selenium | Playwright | Java | TypeScript
+**Automation:** Selenium | Playwright | Java | TypeScript
 
 **Tools:** Git | GitHub | pgAdmin | Microsoft Excel
 
@@ -40,4 +40,4 @@ I'm an ISTQB CTFL-certified Quality Assurance professional with experience in AI
 
 ### 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/) | [GitHub](https://github.com/YOUR-GITHUB-USERNAME)
+[LinkedIn](www.linkedin.com/in/nishant-dhule) | [GitHub]()
