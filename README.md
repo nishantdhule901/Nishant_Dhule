@@ -41,4 +41,5 @@ I'm an certified Quality Assurance professional with experience in AI chatbot re
 
 ### 🤝 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/nishant-dhule) | [GitHub]()
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-dhule/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=Red)](https://github.com/nishantdhule901)
