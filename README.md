@@ -1,5 +1,5 @@
-## Hi there, I'm Nishant Dhule 👋
-
+…Hi there, I'm <a href="https://skst.in" target="_blank">Nishant Dhule</a> <img src="https://media.giphy.com/media/hvR…
+…o/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/nishant-dhule)
 ### 🎯 Certified QA Professional | MCA Graduate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=Red)](www.linkedin.com/in/nishant-dhule)
