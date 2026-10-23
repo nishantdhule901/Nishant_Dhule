@@ -4,7 +4,7 @@ All about me
 ### Hi there, I'm <a href="https://skst.in" target="_blank">Nishant Dhule</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-dhule/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=Red)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=Red)](https://github.com/nishantdhule901)
 
 ### 🎯 Certified QA Professional | MCA Graduate
 
